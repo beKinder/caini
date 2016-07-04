@@ -1,0 +1,51 @@
+body
+{
+	background-image:url("section.jpg");
+	background-size:300px 270px;
+	text-shadow:1px 1px orange;
+	font-size:15px;
+	text-decoration:bold;
+
+}
+h1
+{
+	text-align:center;
+	font-family:Impact;
+	color:#604020;
+	font-size:40px;
+}
+div
+{
+	position:relative;
+	border:2px solid red;
+	border-radius:5px;
+	background-color:white;
+	font-family:Cooper Black;
+	padding:20px;
+}
+img#r
+{
+	position:inside;
+	border-radius:10px;
+	max-height:100px;
+	margin:0px;
+	float:right;
+}
+img#l
+{
+	position:inside;
+	border-radius:10px;
+	max-height:100px;
+	margin:0px;
+	float:left;
+}
+p:first-letter
+{
+	font-family:Algerian;
+	font-size:45px;
+}
+p:first-line
+{
+	
+	text-indent:100px;
+}

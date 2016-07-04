@@ -1,0 +1,32 @@
+body
+{
+	background-image:url("b.jpg");
+	background-size: 200px 160px;
+}
+div.titlu
+{
+	margin:auto;
+	margin-bottom:10px;
+	width:300px;
+	height:60px;
+	border:3px groove maroon;
+	border-radius:30px 10px 30px 10px;
+	background-image:url("harta1.jpg");
+}
+h1
+{
+	font-family:Showcard Gothic;
+	font-size:40px;
+	text-align:center;
+	color: #ffc266;
+	padding:0px;
+	border:0px solid maroon;
+	line-height:10px;
+}
+img.cent
+{
+	display: block;
+    margin:auto;
+	border-radius:30px 10px 30px 10px;
+
+}
